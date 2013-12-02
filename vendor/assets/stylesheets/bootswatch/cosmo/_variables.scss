@@ -58,8 +58,8 @@ $headings-line-height:    1.1;
 // Iconography
 // -------------------------
 
-$icon-font-path:          "../fonts/";
-$icon-font-name:          "glyphicons-halflings-regular";
+$icon-font-path:          "bootstrap/" !default;
+$icon-font-name:          "glyphicons-halflings-regular" !default;
 
 
 // Components
